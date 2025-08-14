@@ -1,8 +1,8 @@
 # Password Manager
 
 <p align="center">
-  <a href="https://youtu.be/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ" target="_blank">
-    <img src="https://img.youtube.com/vi/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ/hqdefault.jpg" alt="Demo">
+  <a href="https://youtu.be/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ">
+    <img src="https://i.ytimg.com/vi/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ/hqdefault.jpg" alt="Demo video" width="720">
   </a>
 </p>
 
