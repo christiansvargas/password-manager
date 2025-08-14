@@ -1,10 +1,6 @@
 # Password Manager
 
-<p align="center">
-  <a href="https://youtu.be/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ">
-    <img src="https://i.ytimg.com/vi/6-agSZg3kaE?si=QiSu0wRAUfEUP7ZJ/hqdefault.jpg" alt="Demo video" width="720">
-  </a>
-</p>
+[Demo](https://youtu.be/6-agSZg3kaE?si=KcXn4PPXf6dONq6-)
 
 Hi, my name is **Christian**, and this project is my high school IB Computer Science Internal Assessment: a simple desktop password manager. It lets you create a master login and then store, view, and update website credentials locally on your computer. I built it because I wanted an offline tool I fully understood end-to-end while practicing Java fundamentals and basic software design (MVC). This is a learning project, and it is not meant for production security, so please don't store real passwords.
 
